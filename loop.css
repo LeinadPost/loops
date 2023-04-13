@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    /* width: 50%;
+    height: 50%; */
+   /*  display: flex;
+    background: white;
+    color: black;
+    height: 50%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px; */
+    /* box-shadow: 0 15px 35px rgba(255,255,255,1); */
+}
+#demo{
+    height: 100%;
+}
+form{
+    /* width: 50%; */
+    /* display: ;
+    position: relative;
+    /* text-align: center; */
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center; */ 
+}
+select{
+    /* width: 10%; */
+}
